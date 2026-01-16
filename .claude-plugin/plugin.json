@@ -1,0 +1,12 @@
+{
+  "name": "conversation-extractor",
+  "version": "1.0.0",
+  "description": "Extract Claude Code conversations to markdown files with descriptive names",
+  "author": {
+    "name": "EUSD Server Engineering",
+    "email": "jstephens@eusd.org"
+  },
+  "repository": "https://github.com/eusd-server-engineer/claude-conversation-extractor-plugin",
+  "license": "MIT",
+  "keywords": ["export", "conversation", "backup", "documentation", "extract"]
+}
